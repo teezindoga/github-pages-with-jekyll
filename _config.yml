@@ -2,7 +2,7 @@ title: My Portfolio
 author: Thelma Zindoga 
 email: thelmazindoga@gmail.com
 description: This my portfolio. I will be showcasing my front-end work on this website.
-
+theme: minima
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  teezindoga
