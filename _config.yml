@@ -7,4 +7,4 @@ description: This my portfolio. I will be showcasing my front-end work on this w
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  teezindoga
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
