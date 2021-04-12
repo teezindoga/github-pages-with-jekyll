@@ -1,3 +1,7 @@
+---
+title: "MY PORTFOLIO"
+date: 2021-04-12
+---
 So when I talk about coming at a niche from a different angle, this example is exactly what I mean. 
 Skint Dad is a site that helps young / new dads save money and be more frugal in their day to day living.
 There’s also a section on their that shows guys how to make a little more cash on top of their monthly day job wage,
